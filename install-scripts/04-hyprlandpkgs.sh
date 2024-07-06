@@ -16,7 +16,7 @@ hypr_package=(
   grim
   gvfs
   gvfs-mtp
-  hyprlock
+  hyprlock-git
   imagemagick
   inxi
   dosfstools
