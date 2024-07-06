@@ -19,6 +19,15 @@ hypr_package=(
   hyprlock
   imagemagick
   inxi
+  dosfstools
+  ntfsprogs
+  stow
+  wf-recorder
+  v4l2loopback-dkms
+  v4l2loopback-utils
+  gstreamer
+  ffmpeg
+  oh-my-posh
   zsh
   kitty
   nvim
@@ -49,9 +58,6 @@ hypr_package=(
   xdg-utils
   xdg-desktop-portal-hyprland
   xdg-desktop-portal-gtk
-)
-
-hypr_package_2=(
   brightnessctl
   htop
   cava
@@ -59,6 +65,8 @@ hypr_package_2=(
   mpv
   nwg-look-bin
   pacman-contrib
+  breezex-cursor-theme
+  bibata-cursor-theme
 )
 
 # Determine the directory where the script is located
