@@ -8,6 +8,30 @@ fi
 
 clear
 
+# Create Directory for Install Logs
+if [ ! -d Install-Logs ]; then
+    mkdir Install-Logs
+fi
+
+# Define the directory where your scripts are located
+script_directory=install-scripts
+
+# Function to execute a script if it exists and make it executable
+execute_script() {
+    local script="$1"
+    local script_path="$script_directory/$script"
+    if [ -f "$script_path" ]; then
+        chmod +x "$script_path"
+        if [ -x "$script_path" ]; then
+            env USE_PRESET=$use_preset  "$script_path"
+        else
+            echo "Failed to make script '$script' executable."
+        fi
+    else
+        echo "Script '$script' not found in '$script_directory'."
+    fi
+}
+
 # It will make all scripts folders executable.
 chmod +x install-scripts/*
 sleep 0.5
