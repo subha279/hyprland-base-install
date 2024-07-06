@@ -30,7 +30,7 @@ hypr_package=(
   oh-my-posh
   zsh
   kitty
-  nvim
+  neovim
   network-manager-applet
   pamixer
   bluez
