@@ -17,7 +17,7 @@ cd "$PARENT_DIR" || exit 1
 # Set the name of the log file to include the current date and time
 LOG="Install-Logs/install-$(date +%d-%H%M%S)_hyprland.log"
 
-source "$(dirname "$(readlink -f "$0")")/Global_functions.sh"
+source "$(dirname "$(readlink -f "$0")")/00-pacman-yay-install-functions.sh"
 
 # Removing other Hyprland to avoid conflict
 printf "${YELLOW} Checking for other hyprland packages and remove if any..${RESET}\n"
