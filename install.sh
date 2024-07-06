@@ -47,7 +47,7 @@ execute_script "03-yay.sh"
 
 # Install hyprland packages
 execute_script "04-hyprlandpkgs.sh"
-execute_script "05-hyprland.sh
+execute_script "05-hyprland.sh"
 
 # Install fonts
 execute_script "06-fonts.sh"
