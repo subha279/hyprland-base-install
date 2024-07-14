@@ -59,14 +59,24 @@ hypr_package=(
   xdg-desktop-portal-hyprland
   xdg-desktop-portal-gtk
   brightnessctl
-  htop
+  btop
   cava
   pywal
-  mpv
+  vlc
   nwg-look-bin
   pacman-contrib
   breezex-cursor-theme
   bibata-cursor-theme
+  unzip
+  usbutils
+  v4l-utils
+  clang
+  yazi
+  ttf-inconsolata
+  ttf-jetbrains-mono
+  ttf-jetbrains-mono-nerd
+  ttf-joypixels ttf-terminus-nerd
+  simple-mtfs
 )
 
 # Determine the directory where the script is located
