@@ -75,6 +75,7 @@ hypr_package=(
   ttf-inconsolata
   ttf-jetbrains-mono
   ttf-jetbrains-mono-nerd
+  ttf-cascadia-code-nerd
   ttf-joypixels ttf-terminus-nerd
   simple-mtfs
 )
