@@ -21,13 +21,11 @@ hypr_package=(
   inxi
   dosfstools
   ntfsprogs
-  stow
   wf-recorder
   v4l2loopback-dkms
   v4l2loopback-utils
   gstreamer
   ffmpeg
-  oh-my-posh
   zsh
   kitty
   neovim
@@ -67,6 +65,7 @@ hypr_package=(
   pacman-contrib
   breezex-cursor-theme
   bibata-cursor-theme
+  kora-icon-theme
   unzip
   usbutils
   v4l-utils
@@ -81,6 +80,7 @@ hypr_package=(
   simple-mtfs
   clang
   lsusb
+  fastfetch 
 
 )
 
