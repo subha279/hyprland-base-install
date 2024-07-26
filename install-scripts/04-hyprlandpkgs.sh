@@ -80,6 +80,7 @@ hypr_package=(
   ttf-joypixels ttf-terminus-nerd
   simple-mtfs
   clang
+  lsusb
 
 )
 
