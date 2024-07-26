@@ -76,8 +76,11 @@ hypr_package=(
   ttf-jetbrains-mono
   ttf-jetbrains-mono-nerd
   ttf-cascadia-code-nerd
+  noto-fonts
   ttf-joypixels ttf-terminus-nerd
   simple-mtfs
+  clang
+
 )
 
 # Determine the directory where the script is located
