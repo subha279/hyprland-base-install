@@ -16,12 +16,10 @@ hypr_package=(
   grim
   gvfs
   gvfs-mtp
-  hyprlock-git
   imagemagick
   inxi
   dosfstools
   ntfsprogs
-  wf-recorder
   v4l2loopback-dkms
   v4l2loopback-utils
   gstreamer
@@ -59,12 +57,10 @@ hypr_package=(
   brightnessctl
   btop
   cava
-  pywal
   vlc
   nwg-look-bin
   pacman-contrib
   breezex-cursor-theme
-  bibata-cursor-theme
   kora-icon-theme
   unzip
   usbutils
@@ -76,11 +72,16 @@ hypr_package=(
   ttf-jetbrains-mono-nerd
   ttf-cascadia-code-nerd
   noto-fonts
-  ttf-joypixels ttf-terminus-nerd
+  ttf-joypixels 
+  ttf-terminus-nerd
   simple-mtfs
-  clang
-  lsusb
-  fastfetch 
+  fastfetch
+  nodejs
+  curl
+  stow
+  jq
+  bc
+  
 
 )
 
