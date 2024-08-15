@@ -3,6 +3,7 @@
 # Fonts #
 
 fonts=(
+  # Fonts
   adobe-source-code-pro-fonts
   noto-fonts-emoji
   otf-font-awesome
@@ -10,6 +11,16 @@ fonts=(
   ttf-fira-code
   ttf-jetbrains-mono
   ttf-jetbrains-mono-nerd
+  ttf-inconsolata
+  ttf-jetbrains-mono
+  ttf-jetbrains-mono-nerd
+  ttf-cascadia-code-nerd
+  noto-fonts
+  ttf-joypixels
+  
+  # Themes & Icons
+  kora-icon-theme
+  nordic-theme
 )
 
 # Determine the directory where the script is located
