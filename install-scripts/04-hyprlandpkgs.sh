@@ -15,7 +15,7 @@ hypr_package=(
   curl
   grim
   gvfs
-  gvfs-mtp
+  mtpfs
   imagemagick
   inxi
   dosfstools
@@ -56,11 +56,9 @@ hypr_package=(
   xdg-desktop-portal-gtk
   brightnessctl
   btop
-  cava
   vlc
-  nwg-look-bin
+  nwg-look
   pacman-contrib
-  breezex-cursor-theme
   kora-icon-theme
   unzip
   usbutils
@@ -73,16 +71,20 @@ hypr_package=(
   ttf-cascadia-code-nerd
   noto-fonts
   ttf-joypixels 
-  ttf-terminus-nerd
-  simple-mtfs
   fastfetch
   nodejs
   curl
   stow
   jq
   bc
-  
-
+  npm
+  pyright
+  firefox-developer-edition
+  bat
+  tmux
+  spotify
+  gimp
+  libreoffice-fresh
 )
 
 # Determine the directory where the script is located
