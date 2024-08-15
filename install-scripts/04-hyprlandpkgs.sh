@@ -58,18 +58,11 @@ hypr_package=(
   vlc
   nwg-look
   pacman-contrib
-  kora-icon-theme
   unzip
   usbutils
   v4l-utils
   clang
-  yazi
-  ttf-inconsolata
-  ttf-jetbrains-mono
-  ttf-jetbrains-mono-nerd
-  ttf-cascadia-code-nerd
-  noto-fonts
-  ttf-joypixels 
+  yazi 
   fastfetch
   nodejs
   curl
