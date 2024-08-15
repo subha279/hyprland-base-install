@@ -50,7 +50,6 @@ hypr_package=(
   waybar
   wget
   dunst
-  xdg-user-dirs
   xdg-utils
   xdg-desktop-portal-hyprland
   xdg-desktop-portal-gtk
