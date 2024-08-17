@@ -45,6 +45,7 @@ hypr_package=(
   qt6-svg
   rofi-wayland
   slurp
+  wl-clipboard
   thunar
   swww
   waybar
