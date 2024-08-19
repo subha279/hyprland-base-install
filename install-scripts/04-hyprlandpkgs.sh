@@ -78,6 +78,11 @@ hypr_package=(
   spotify
   gimp
   libreoffice-fresh
+  fzf
+  zoxide
+  tar
+  p7zip
+  wl-clipboard
 )
 
 # Determine the directory where the script is located
