@@ -56,7 +56,7 @@ hypr_package=(
   xdg-desktop-portal-gtk
   brightnessctl
   btop
-  vlc
+  mpv
   nwg-look
   pacman-contrib
   unzip
@@ -83,6 +83,7 @@ hypr_package=(
   tar
   p7zip
   wl-clipboard
+  starship
 )
 
 # Determine the directory where the script is located
