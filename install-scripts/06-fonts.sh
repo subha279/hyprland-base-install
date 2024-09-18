@@ -20,7 +20,7 @@ fonts=(
   
   # Themes & Icons
   kora-icon-theme
-  nordic-theme
+  whitesur-gtk-theme
 )
 
 # Determine the directory where the script is located
