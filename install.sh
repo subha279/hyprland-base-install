@@ -56,7 +56,7 @@ execute_script "06-fonts.sh"
 execute_script "07-nvidia.sh"
 
 # ZSH defaut Shell
-sudo chsh -s $(which zsh) # Might ask for password
+chsh -s $(which zsh) # Might ask for password
 
 printf "\n${OK} Installation Completed.Base Hyprland installed\n"
 printf "\n"
