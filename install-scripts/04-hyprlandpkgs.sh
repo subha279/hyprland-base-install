@@ -1,10 +1,7 @@
 #!/bin/bash
 
 # Hyprland Packages #
-
-# edit your packages desired here.
-# WARNING! If you remove packages here, dotfiles may not work properly.
-# and also, ensure that packages are present in AUR and official Arch Repo
+# Ensure that packages are present in AUR and official Arch Repo
 
 # add packages wanted here
 Extra=(
