@@ -82,7 +82,6 @@ hypr_package=(
   wl-clipboard
   starship
   hyprlock
-  hyprshade
 )
 
 # Determine the directory where the script is located
