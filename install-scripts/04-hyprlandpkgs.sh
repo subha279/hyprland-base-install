@@ -69,7 +69,7 @@ hypr_package=(
   bc
   npm
   pyright
-  firefox-developer-edition
+  chromium
   bat
   tmux
   spotify
