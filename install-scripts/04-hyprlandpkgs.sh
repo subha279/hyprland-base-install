@@ -80,7 +80,6 @@ hypr_package=(
   tar
   p7zip
   wl-clipboard
-  starship
   hyprlock
 )
 
