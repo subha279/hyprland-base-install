@@ -82,6 +82,7 @@ hypr_package=(
   p7zip
   wl-clipboard
   hyprlock
+  hyprshot
   starship
 )
 
