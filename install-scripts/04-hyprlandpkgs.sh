@@ -47,7 +47,8 @@ hypr_package=(
   swww
   waybar
   wget
-  dunst
+  swaync
+  lib-notify      #if not installed
   xdg-utils
   xdg-desktop-portal-hyprland
   xdg-desktop-portal-gtk
