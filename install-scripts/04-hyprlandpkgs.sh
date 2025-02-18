@@ -53,7 +53,6 @@ hypr_package=(
   xdg-desktop-portal-hyprland
   xdg-desktop-portal-gtk
   brightnessctl
-  btop
   mpv
   nwg-look
   pacman-contrib
@@ -82,8 +81,6 @@ hypr_package=(
   p7zip
   wl-clipboard
   hyprlock
-  hyprshot
-  starship
 )
 
 # Determine the directory where the script is located
