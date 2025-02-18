@@ -17,6 +17,7 @@ fonts=(
   ttf-cascadia-code-nerd
   noto-fonts
   ttf-joypixels
+  ttf-nerd-fonts-symbols
   
   # Themes & Icons
   kora-icon-theme
