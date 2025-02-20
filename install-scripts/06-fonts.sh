@@ -18,6 +18,7 @@ fonts=(
   noto-fonts
   ttf-joypixels
   ttf-nerd-fonts-symbols
+  nerd-fonts-sf-mono
   
   # Themes & Icons
   kora-icon-theme
