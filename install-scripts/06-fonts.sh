@@ -23,6 +23,7 @@ fonts=(
   # Themes & Icons
   kora-icon-theme
   whitesur-gtk-theme
+  apple_cursor
 )
 
 # Determine the directory where the script is located
