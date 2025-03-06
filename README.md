@@ -4,4 +4,4 @@
 
 To install, execute the following commands:
 
-```sh git clone https://github.com/subha279/hyprland-base-install.git && cd hyprland-base-install && chmod +x install.sh && ./install.sh```
+``` git clone https://github.com/subha279/hyprland-base-install.git && cd hyprland-base-install && chmod +x install.sh && ./install.sh```
