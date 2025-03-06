@@ -22,7 +22,7 @@ hypr_package=(
   gstreamer
   ffmpeg
   zsh
-  kitty
+  ghostty
   neovim
   network-manager-applet
   pamixer
@@ -45,7 +45,7 @@ hypr_package=(
   wl-clipboard
   thunar
   swww
-  waybar
+  hyprpanel
   wget
   swaync
   lib-notify      #if not installed
@@ -60,7 +60,7 @@ hypr_package=(
   usbutils
   v4l-utils
   clang
-  yazi 
+  yazi
   fastfetch
   nodejs
   curl
@@ -69,7 +69,7 @@ hypr_package=(
   bc
   npm
   pyright
-  chromium
+  zen-browser
   bat
   tmux
   spotify
@@ -81,6 +81,11 @@ hypr_package=(
   p7zip
   wl-clipboard
   hyprlock
+  fontconfig
+  python-pywal16
+  hyprshade-git
+  visual-studio-code-bin
+  apple_cursor
 )
 
 # Determine the directory where the script is located
