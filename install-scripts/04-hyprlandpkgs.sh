@@ -85,7 +85,6 @@ hypr_package=(
   python-pywal16
   hyprshade-git
   visual-studio-code-bin
-  apple_cursor
 )
 
 # Determine the directory where the script is located
