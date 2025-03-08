@@ -22,7 +22,6 @@ fonts=(
   
   # Themes & Icons
   kora-icon-theme
-  flat-remix
   whitesur-gtk-theme
   apple_cursor
 )
