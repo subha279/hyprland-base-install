@@ -85,6 +85,10 @@ hypr_package=(
   python-pywal16
   hyprshade-git
   visual-studio-code-bin
+  #Bass Music
+  calf
+  lsp-plugins
+  easyeffects
 )
 
 # Determine the directory where the script is located
