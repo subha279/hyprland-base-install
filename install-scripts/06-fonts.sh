@@ -23,6 +23,8 @@ fonts=(
   # Themes & Icons
   kora-icon-theme
   whitesur-gtk-theme
+  whitesur-icon-theme
+  papirus-icon-theme
   apple_cursor
 )
 
