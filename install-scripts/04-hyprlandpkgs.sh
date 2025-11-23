@@ -12,6 +12,9 @@ hypr_package=(
   curl
   grim
   gvfs
+  android-file-transfer
+  gvfs-mtp
+  libmtp
   mtpfs
   imagemagick
   inxi
