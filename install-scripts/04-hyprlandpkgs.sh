@@ -48,9 +48,9 @@ hypr_package=(
   wl-clipboard
   thunar
   swww
-  hyprpanel
   wget
-  lib-notify      #if not installed
+  libnotify
+  dunst
   xdg-utils
   xdg-desktop-portal-hyprland
   xdg-desktop-portal-gtk
@@ -71,7 +71,7 @@ hypr_package=(
   bc
   npm
   pyright
-  brave
+  brave-bin
   bat
   tmux
   spotify
